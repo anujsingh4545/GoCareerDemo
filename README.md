@@ -1,3 +1,5 @@
+## Implemented Url based pagination, done pagination before but haven't done with Url, learned something !
+
 # Snapshots
 <img width="950" alt="image" src="https://github.com/anujsingh4545/GoCareerDemo/assets/76861751/e521a6e2-1442-482f-a6f7-a936448ba4e1">
 <img width="950" alt="image" src="https://github.com/anujsingh4545/GoCareerDemo/assets/76861751/5d34f9be-5a3b-43bf-978e-b613b2aaf67f">

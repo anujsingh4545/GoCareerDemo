@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.filterButton {
+  @apply w-full  outline-dashed outline-1 font-Nunito tracking-wider py-2 outline-yellow-500  hover:outline-2 col-span-1;
+}
+
+body {
+  @apply max-w-[90rem] mx-auto min-w-[370px];
+}
